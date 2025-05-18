@@ -1,5 +1,4 @@
-# Human_Activity_Recognition_Using_Smartphone_Data
-Human_Activity_Recognition_Using_Smartphone_Data
+
   # 🤖 Human Activity Recognition Using Smartphone Sensor Data
 
 This project leverages smartphone sensor data (accelerometers and gyroscopes) to recognize and classify human activities using machine learning. The goal is to identify actions such as walking, sitting, standing, and lying down using time-series data from smartphones.
